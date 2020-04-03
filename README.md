@@ -19,4 +19,5 @@ View the notebook in <a href='https://nbviewer.jupyter.org/github/SB-Jr/tldr_ten
   <li><a href='https://nbviewer.jupyter.org/github/SB-Jr/tldr_tensorflow/blob/master/9.%20Linear%20Classifier.ipynb'>Example to visualize and to create a binar classifier</a></li>
   <li><a href='https://nbviewer.jupyter.org/github/SB-Jr/tldr_tensorflow/blob/master/10.Kernel%20Classifier.ipynb'>Example to use kernel methods in a classifier</a></li>
   <li><a href='https://nbviewer.jupyter.org/github/SB-Jr/tldr_tensorflow/blob/master/11.%20ANN.ipynb'>Basics on Artificial Neural Network</a></li>
+  <li><a href='https://nbviewer.jupyter.org/github/SB-Jr/tldr_tensorflow/blob/master/12.Convolution%20Neural%20Network.ipynb'>Convolution Neural Network</a></li>
 </ol>
