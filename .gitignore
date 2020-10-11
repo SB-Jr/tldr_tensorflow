@@ -1,2 +1,6 @@
 # Jupyter Lab checkpoints
 *.ipynb_checkpoints*
+
+*__pycache__*
+
+*.virtual_documents*
