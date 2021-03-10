@@ -7,3 +7,10 @@
 
 # datasets
 **dataset**
+
+# model weights
+**.h5
+**.tar.**
+
+# logs
+**logs**
